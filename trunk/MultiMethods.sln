@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMethods", "MultiMethods\MultiMethods.csproj", "{5C6312E0-D9B0-4C83-B6B1-1799A6946A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMethods.Tests", "MultiMethods.Tests\MultiMethods.Tests.csproj", "{2C9368AE-6DDC-4ED3-8F34-1393EAF39670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6312E0-D9B0-4C83-B6B1-1799A6946A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6312E0-D9B0-4C83-B6B1-1799A6946A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6312E0-D9B0-4C83-B6B1-1799A6946A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6312E0-D9B0-4C83-B6B1-1799A6946A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9368AE-6DDC-4ED3-8F34-1393EAF39670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9368AE-6DDC-4ED3-8F34-1393EAF39670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9368AE-6DDC-4ED3-8F34-1393EAF39670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9368AE-6DDC-4ED3-8F34-1393EAF39670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
